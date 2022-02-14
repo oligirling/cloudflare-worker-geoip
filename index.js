@@ -69,7 +69,6 @@ async function handleRequest(request) {
 
     const response = {
       'ip': clientIP,
-      'ip2': clientIP2,
       'type': clientIpType,
       'capital': capital,
       'calling_codes': callingCodes,
