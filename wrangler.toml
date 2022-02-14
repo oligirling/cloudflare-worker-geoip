@@ -1,0 +1,7 @@
+name = "geolocation-worker"
+type = "webpack"
+workers_dev = true
+account_id = ""
+route = ''
+zone_id = ""
+compatibility_date = "2022-02-10"
